@@ -1,5 +1,9 @@
 # Seams Okay
 
+> Small disclaimer for admission officers and Dauren reading this (hi 👋):
+> This is not a "I started a nonprofit three days before application deadlines" situation.
+> I've been messing around with these ideas for a while and just didn't bother publishing them until recently.
+
 A tiny seam carving implementation that shrinks images by intelligently removing vertical seams instead of just cropping.
 
 inspired by [this tsoding video](https://www.youtube.com/watch?v=zrduCu8LYUM).

@@ -19,7 +19,9 @@ converts your image to ppm, carves out seams, and saves the result as png.
 removed 714 seams (50% of width) from a broadway tower image:
 
 **before:**
+
 ![original broadway tower](demo/Broadway_tower_edit.jpg)
 
 **after:**
+
 ![carved broadway tower](demo/Broadway_tower_edit_carved.png)
